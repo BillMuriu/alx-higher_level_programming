@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-import my_pystr
+from sys import stdout
+stdout.write("#pythoniscool\n")
